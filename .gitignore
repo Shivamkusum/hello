@@ -1,1 +1,6 @@
-error.log
+*.log
+dir/
+fourth
+fifth
+second.txt
+
